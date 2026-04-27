@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create *)",
+      "Bash(npx create-vite@latest . --template react)",
+      "Bash(npx create-vite@latest . --template react --force)",
+      "Bash(npm install *)",
+      "Bash(node --input-type=module --check)",
+      "Bash(npx vite *)",
+      "Bash(timeout 5 node server.js)",
+      "Bash(netstat -ano)",
+      "Bash(taskkill /PID 10224 /F)",
+      "Bash(cmd /c \"taskkill /PID 10224 /F\")",
+      "Bash(cmd *)",
+      "Bash(/c/Windows/System32/taskkill.exe *)",
+      "Bash(kill 10224)",
+      "Bash(node server.js)",
+      "Bash(curl -s http://localhost:3002)",
+      "Bash(curl -s http://localhost:5173)",
+      "Bash(kill -f 8592)",
+      "Bash(kill -f 3320)",
+      "Bash(rm -f server.js vite.config.js index.html)",
+      "Bash(rm -rf src)",
+      "Bash(npx next *)",
+      "Bash(ls *)"
+    ]
+  }
+}

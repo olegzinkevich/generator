@@ -1,0 +1,5 @@
+Take the golden reference game code folder defined in **Game Code Path**. Update this code with the provided information about the game. 
+
+Keep all necessary sdk, code base, according to this cheklist: 
+Path to the reference checklist: ....
+
